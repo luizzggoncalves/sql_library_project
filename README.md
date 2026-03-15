@@ -3,7 +3,6 @@
 ## Visão Geral do Projeto
 
 **Título**: Sistema de Gerenciamento de Biblioteca  
-**Nível**: Intermediário  
 **Banco de Dados**: `library_db`
 
 Este projeto demonstra a implementação de um Sistema de Gerenciamento de Biblioteca usando SQL. Inclui criação e gerenciamento de tabelas, operações CRUD e consultas SQL avançadas. O objetivo é demonstrar habilidades em design de banco de dados, manipulação e consultas.
